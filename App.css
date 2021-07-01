@@ -1,0 +1,31 @@
+/* App.css */
+.App {
+  background-image: url('fundo.png');
+  padding: 30px;
+  height: 100vh;
+}
+
+.lista-tarefas{
+  margin: auto;
+  background:blue;
+  border-radius: 5px;
+  padding: 5px;
+  max-width: 400px;
+}
+
+.tarefa {
+  background: white;
+  padding: 10px 10px;
+  font-size: 15x;
+  align-items: left;
+  cursor: pointer;
+}
+
+.input {
+  background: white;
+  padding: 10px 10px;
+  font-size: 20px;
+  border-radius: 2.5px;
+  border-color: blue;
+
+}
